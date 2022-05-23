@@ -1,0 +1,59 @@
+.todo-container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* flex-flow: row wrap; */
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 1rem;
+}
+input[type="text"].todo-input {
+  flex-grow: 8;
+  padding: 1rem 0.5rem;
+  /* margin-top: 10px; */
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  outline: none;
+  letter-spacing: 1.2px;
+}
+.add-todo__btn {
+  flex-grow: 1;
+  padding: 1rem;
+  margin-left: 1rem;
+  font-family: "Poppins", sans-serif;
+  border: none;
+  outline: none;
+  letter-spacing: 2px;
+  font-size: 1rem;
+  background-color: #4caf50;
+  color: white;
+}
+.add-todo__btn:hover {
+  cursor: pointer;
+  background-color: #45a049;
+}
+.error-text {
+  width: 75%;
+  margin-top: 5px;
+  margin-left: 5px;
+  color: red;
+  letter-spacing: 1.2px;
+  font-size: 0.7rem;
+}
+
+@media (max-width: 620px) {
+  input[type="text"].todo-input,
+  .add-todo__btn {
+    display: block;
+    width: 100%;
+    margin: 0;
+    margin-top: 10px;
+  }
+}
+@media (max-width: 410px) {
+  input[type="text"].todo-input {
+    font-size: 0.5rem;
+    letter-spacing: 0px;
+  }
+}
