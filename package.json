@@ -2,7 +2,7 @@
   "name": "reactjs-todo-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/lohith-3/reactjs-todoapplication",
+  "homepage": "https://lohith-3.github.io/reactjs-todoapplication",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
