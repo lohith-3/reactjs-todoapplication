@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lohith-3/reactjs-todoapplication/static/css/main.9cb13093.css",
+    "main.js": "/lohith-3/reactjs-todoapplication/static/js/main.0416baf6.js",
+    "static/js/787.9bba6990.chunk.js": "/lohith-3/reactjs-todoapplication/static/js/787.9bba6990.chunk.js",
+    "index.html": "/lohith-3/reactjs-todoapplication/index.html",
+    "main.9cb13093.css.map": "/lohith-3/reactjs-todoapplication/static/css/main.9cb13093.css.map",
+    "main.0416baf6.js.map": "/lohith-3/reactjs-todoapplication/static/js/main.0416baf6.js.map",
+    "787.9bba6990.chunk.js.map": "/lohith-3/reactjs-todoapplication/static/js/787.9bba6990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cb13093.css",
+    "static/js/main.0416baf6.js"
+  ]
+}
